@@ -3,9 +3,11 @@
 A new Flutter application.
 
 This is has total of 3 Page:
-1. First page, It diplays all the tables for restorant with occupied, free, not available, Reserved.
+1. First page, It displays all the tables in restaurant with occupied, free, not available and Reserved.
 2. Second Page, When we click on perticular table we can see the order from that table can also add more items to order.
 3. Third Page, To add more items in the table here is the full menu of items available by restaurant. User can add/remove items and process it to billing.
+
+Note: This app is just an early design idea for restaurant navigation app.
 
 ## Getting Started
 
